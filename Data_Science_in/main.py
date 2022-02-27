@@ -1,5 +1,5 @@
 # This work follows the Linkdin course "Introduction to Data Science"
-# https://www.linkedin.com/learning/introduction-to-data-science-2/next-steps?autoAdvance=true&autoSkip=true&autoplay=true&resume=false&u=41910388
+# https://www.linkedin.com/learning/introduction-to-data-science-2
 
 
 import pandas as pd
